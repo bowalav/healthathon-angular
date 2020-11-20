@@ -1,0 +1,9 @@
+amplify-authenticator{
+    height: 100%;
+}
+
+.link-prompt-image{
+    padding-top: 30px;
+    border-radius: 50%;
+    margin: auto;
+}
